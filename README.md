@@ -1,13 +1,6 @@
-<img src="../dox.png" width="150" height="100" alt="YOMG Lab Documentation">
 # DOX - A Computer Scientists NoteBook
 
-<img src="../GlusterFS.svg"  alt="YOMG Lab Documentation">
-
-For full source visit [github](https://github.com/youroldmangaming/DOX.git).
-
-
 # Managing a Raspberry Pi Distibuted File Share using Gluster
-
 
 ### 1. Check Cluster Availability in Preparation for Installation
 Checks the availability of slurm defined nodes. This is needed as a first step as orchestration of tasks become very tiresome as the cluster increases in nodes.
