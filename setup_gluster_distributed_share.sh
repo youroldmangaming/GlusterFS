@@ -7,4 +7,4 @@ echo "$hostname:/glusterfs /mnt/glusterfs glusterfs defaults,_netdev,backupvolfi
 chown -R root:docker /mnt
 systemctl daemon-reload
 mount -a
-mount.glusterfs $hostname:/glusterfs /mnt
+mount.glusterfs hostname:/glusterfs /mnt
